@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "114401847915",
+    "firebase_url": "https://gramaurja-927ae-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "gramaurja-927ae",
+    "storage_bucket": "gramaurja-927ae.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114401847915:android:734f2abf4eee5387901f2e",
+        "android_client_info": {
+          "package_name": "com.gramaurja"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYTw4J56dGDatzdRq2n7VYT7wS67aqM-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
